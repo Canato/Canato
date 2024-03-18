@@ -10,14 +10,14 @@ If I can help you, talk with me!
 **Stack Overflow** <a href="https://stackoverflow.com/users/3117650/canato?tab=profile" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="20" height="20" alt="stackoverflow logo"/></a><a href="https://medium.com/@canato" target="_blank">
 
 Some data about me:
-- Born in 1991
-- Live in Austria for 2 years
-- Live in London for 4,5 years
-- Moving to Melbourne, AUS
+- Born in 1991, Brazil.
+- Lived in Austria for 2 years
+- Lived in London for 4,5 years
+- Living in Melbourne, AUS
 - 2022 did 28 trips
 - 2023 did 20 trips
 - Love festivals (Hardstyle music if I have to choose, but any festival is great)
-- Work as Lead/Manager for a team of 12 people for 20 months. I love it, but it takes a lot of time. Decide to return to coding for now.
+- Worked as Lead/Manager for a team of 12 people for 20 months. I love it, but it takes a lot of time. Decide to return to coding for now.
 - Make an open-source project
 - Always mentoring someone
 - [Open Source Project for image crop](https://github.com/CanHub/Android-Image-Cropper)
