@@ -8,9 +8,8 @@ If I can help you, talk with me!
 
 Some data about me:
 - Born in 1991, Brazil.
-- Lived in Austria for 2 years
-- Lived in London for 4,5 years
-- Living in Melbourne, AUS
+- Lived in Austria(2y), London(4,5y), Melbourne (1y)
+- Living in Sydney, AUS
 - 2022 did 28 trips
 - 2023 did 20 trips
 - Love festivals (Hardstyle music if I have to choose, but any festival is great)
